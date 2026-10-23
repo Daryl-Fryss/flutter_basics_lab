@@ -1,3 +1,3 @@
-import 'activity2_water_tracker.dart' as activity;
+import 'activity5_theme_components.dart' as activity;
 
 void main() => activity.main();
